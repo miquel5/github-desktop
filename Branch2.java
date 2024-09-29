@@ -2,6 +2,6 @@ public class Branch2
 {
     public void execute()
     {
-        System.out.println("Estás en la rama 2.");
+        System.out.println("Ara estic fent-ho amb la branca 2");
     }
 }
